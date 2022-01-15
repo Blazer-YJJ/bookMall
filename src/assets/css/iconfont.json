@@ -1,0 +1,44 @@
+{
+  "id": "3032466",
+  "name": "ewshop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "68235",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "201222",
+      "name": "3.1购物车",
+      "font_class": "31gouwuche",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "673799",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "2675007",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "10568915",
+      "name": "sharpicons_Monkey",
+      "font_class": "sharpicons_Monkey",
+      "unicode": "e788",
+      "unicode_decimal": 59272
+    }
+  ]
+}

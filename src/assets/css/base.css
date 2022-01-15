@@ -1,0 +1,36 @@
+@import './normalize.css';
+
+:root {
+    --color-text: #666;
+    --color-height-text: #42bbaa;
+    --color-tint: #43b983;
+    --color-background: #FFFFFF;
+    --font-size: 14px;
+    --line-height: 1.5;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    user-slect: none; /* 禁止用户使用鼠标选中文字及图片 */
+    background: var(--color-background);
+    color: var(--color-text);
+    width: 100vw;
+}
+a {
+    color: var(--color-text);
+    text-decoration: none;  /* 去除所有连接的下划线 */
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+img {
+    max-width: 100% !important;
+    height: auto !important;
+}
